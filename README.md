@@ -3,6 +3,7 @@
 ## 📌 프로젝트 설명 <!-- 어떤 걸 만들었는지 대략적으로 설명해주세요 -->
 VanillaJS로 노션을 클로닝했습니다.
 ### 배포 : https://joonwon-notion.vercel.app/
+### PR링크 : https://github.com/prgrms-fe-devcourse/FEDC5-5_Project_Notion_VanillaJS/pull/10
 
 ## 👩‍💻 요구 사항과 구현 내용 <!-- 기능을 Commit 별로 잘개 쪼개고, Commit 별로 설명해주세요 -->
 ![image](https://github.com/prgrms-fe-devcourse/FEDC5-5_Project_Notion_VanillaJS/assets/44563138/c659f9f8-a4bb-439a-8524-ee468b8beaf7)
